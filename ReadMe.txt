@@ -1,6 +1,6 @@
 This is a library files with certain functions:
 
-Made during Project Works
+Made during Project Works (Library Management System)
 
 void fullscreen(void); // Make Screen full with the simulation of key Press Alt + Enter
 
