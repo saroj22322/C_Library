@@ -1,3 +1,5 @@
+//Header Datei
+
 void fullscreen(void);
 
 void gotoxy(int,int);
